@@ -1,0 +1,8 @@
+*.pyc
+/venv
+.env
+/.idea
+env.yaml
+*.log
+*.vscode
+*.json
